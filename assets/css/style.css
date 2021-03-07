@@ -513,6 +513,7 @@ section {
 .about .content {
   background-color: #f6f9ff;
   padding: 40px;
+  display: inline-block;
 }
 
 .about h3 {
